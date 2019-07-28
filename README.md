@@ -1,5 +1,8 @@
 # HiTech - A *High-Tech* looking osu! skin
 ![alt text](https://i.imgur.com/Z59mNW8.png "HiTech Logo")
+##
+##
+##
 ![alt text](https://i.imgur.com/bBmIRQr.png "About")
 ### HiTech is EclipsedTeam's newest skin, based off [Trilated](https://github.com/eclipsedteam/Trilated "Trilated Repository") featuring a, well, high-tech looking design. Keep in mind that right now! The skin is still in a WIP (Work in Progress) state and has not reached a final release yet. But don't worry! You can always grab a beta release! (or pre-release)
 ###
