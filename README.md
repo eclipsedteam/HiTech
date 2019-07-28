@@ -6,7 +6,7 @@
 [![alt text](https://i.imgur.com/KhMHJES.png "HiTech - GitHub Issues")](https://github.com/eclipsedteam/HiTech/issues/new)
 #### To submit an issue or an idea, just click on the image above, and write down the issue or idea! Please include as much info as possible and if you have any, put in any screenshots or concepts!
 ###
-[![alt text](https://i.imgur.com/5i60fsK.png "Pull Requests")](https://github.com/eclipsedteam/HiTech/compare)
+[![alt text](https://i.imgur.com/5i60fsK.png "HiTech - GitHub Pull Requests")](https://github.com/eclipsedteam/HiTech/compare)
 #### If you have any files which you have changed, and you want to see in the skin, click the image above to create a pull request!
 ###
 #### If you actually want to join the team, and to be able to push whenever you want to (create commits without creating a pull request), join our [discord server](https://discord.gg/vgSkBRr) and ask us about it!
