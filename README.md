@@ -4,7 +4,7 @@
 ##
 ##
 ![alt text](https://i.imgur.com/bBmIRQr.png "About")
-### HiTech is EclipsedTeam's newest skin, based off [Trilated](https://github.com/eclipsedteam/Trilated "Trilated Repository") featuring a, well, high-tech looking design. Keep in mind that right now! The skin is still in a WIP (Work in Progress) state and has not reached a final release yet. But don't worry! You can always grab a beta release! (or pre-release)
+### HiTech is EclipsedTeam's newest skin, based off [Trilated](https://github.com/eclipsedteam/Trilated "Trilated Repository") featuring a, well, high-tech looking design. Keep that in mind right now! The skin is still in a WIP (Work in Progress) state and has not reached a final release yet. But don't worry! You can always grab a beta release! (or pre-release)
 ###
 ###
 [![alt text](https://i.imgur.com/KhMHJES.png "HiTech - GitHub Issues")](https://github.com/eclipsedteam/HiTech/issues/new)
